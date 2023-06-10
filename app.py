@@ -6,10 +6,6 @@ import os
 
 load_dotenv()
 
-Client.request_config["headers"]["User-Agent"] = (
-    "Chess.com Github ReadMe Badge, Contact me at {}".format(email)
-)
-
 def rating(time_control):
     username = os.getenv("username")
     response = get_player_stats(username)
