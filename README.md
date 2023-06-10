@@ -40,11 +40,7 @@ Chess.com-Readme
 
 ## 📍Overview
 
-The Chess.com-Readme project allows users to create, edit, and share Chess.com-compatible Readme files that provide information on their chessbots. It includes sections for a
-
-## 🔮 Feautres
-
-> `[📌  INSERT-PROJECT-FEATURES]`
+The Chess.com-Readme project creates a badge for your github readme with your chess.com elo rating on it.
 
 ---
 
@@ -95,43 +91,21 @@ repo
 ### ✅ Prerequisites
 
 Before you begin, ensure that you have the following prerequisites installed:
-> `[📌  INSERT-PROJECT-PREREQUISITES]`
+> `Register for a vercel account`
 
 ### 💻 Installation
 
-1. Clone the Chess.com-Readme repository:
-```sh
-git clone https://github.com/KenWuqianghao/Chess.com-Readme
-```
+1. Fork this repo
 
-2. Change to the project directory:
-```sh
-cd Chess.com-Readme
-```
+2. Go to vercel and create a new project using the forked repo
 
-3. Install the dependencies:
-```sh
-[INSERT-INSTALL-GUIDE-HERE]
-```
+3. Specify the environment variables username and time_control, time_control has options chess_bullet, chess_blitz and chess_rapid
 
 ### 🤖 Using Chess.com-Readme
 
 ```sh
-[INSERT-RUN-GUIDE-HERE]
+<img src="link-to-your-vercel-app/?">
 ```
-
-### 🧪 Running Tests
-```sh
-#run tests
-```
-
-<hr />
-
-## 🛠 Future Development
-- [X] [📌  COMPLETED-TASK]
-- [ ] [📌  INSERT-TASK]
-- [ ] [📌  INSERT-TASK]
-
 
 ---
 
