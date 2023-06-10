@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-email = os.getenv("email")
 
 Client.request_config["headers"]["User-Agent"] = (
     "Chess.com Github ReadMe Badge, Contact me at {}".format(email)
