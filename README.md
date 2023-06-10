@@ -24,16 +24,11 @@ Chess.com-Readme
 ## 📚 Table of Contents
 - [📚 Table of Contents](#-table-of-contents)
 - [📍Overview](#-introdcution)
-- [🔮 Features](#-features)
 - [⚙️ Project Structure](#project-structure)
 - [🧩 Modules](#modules)
 - [🏎💨 Getting Started](#-getting-started)
-- [🗺 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [🪪 License](#-license)
-- [📫 Contact](#-contact)
-- [🙏 Acknowledgments](#-acknowledgments)
-
 ---
 
 ## 📍Overview
@@ -70,7 +65,6 @@ repo
 
 | File      | Summary                                                                                                                                                                                                                                                | Module    |
 |:----------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------|
-| .DS_Store | This code is an error message indicating that a file could not be decoded because it is not a text or UTF-8 file .                                                                                                                                     | .DS_Store |
 | app.py    | This code creates a web application using Flask that generates a card displaying a user 's rating on Chess.com for a specified time control . It uses the chessdotcom library to access the user 's stats and the dotenv library to access environment | app.py    |
 
 </details>
@@ -94,10 +88,14 @@ Before you begin, ensure that you have the following prerequisites installed:
 ### 💻 Installation
 
 1. Fork this repo
+<img width="149" alt="Screenshot 2023-06-10 at 04 41 18" src="https://github.com/KenWuqianghao/Chess.com-Readme/assets/20444505/fbe851f9-a95f-47ad-a15d-a7e5b75deca5">
 
 2. Go to vercel and create a new project using the forked repo
+<img width="1512" alt="Screenshot 2023-06-10 at 04 41 30" src="https://github.com/KenWuqianghao/Chess.com-Readme/assets/20444505/6a59f0fe-1125-4f5e-893e-00a354f0fb91">
+<img width="1512" alt="Screenshot 2023-06-10 at 04 41 41" src="https://github.com/KenWuqianghao/Chess.com-Readme/assets/20444505/2bff6c3b-5498-4970-9d98-7d2a1ad61044">
 
 3. Specify the environment variables username and time_control, time_control has options chess_bullet, chess_blitz and chess_rapid
+<img width="1512" alt="Screenshot 2023-06-10 at 04 42 08" src="https://github.com/KenWuqianghao/Chess.com-Readme/assets/20444505/fee0208a-7d3a-49d0-9103-b910941d551c">
 
 ### 🤖 Using Chess.com-Readme
 
