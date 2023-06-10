@@ -8,7 +8,7 @@ Chess.com-Readme
 </h1>
 <h3 align="center">📍 io
 
-"Unlock the Secrets of Chess: Play Now, Read Later with Chess.com-Readme.io!</h3>
+Share your Chess.com Elo on your GitHub Readme page
 <h3 align="center">🚀 Developed with the software and tools below.</h3>
 <p align="center">
 
