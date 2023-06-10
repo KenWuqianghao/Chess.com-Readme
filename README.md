@@ -6,9 +6,7 @@
 <br>
 Chess.com-Readme
 </h1>
-<h3 align="center">📍 io
-
-Share your Chess.com Elo on your GitHub Readme page
+<h3 align="center">📍 Share your Chess.com Elo on your GitHub Readme page
 <h3 align="center">🚀 Developed with the software and tools below.</h3>
 <p align="center">
 
