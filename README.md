@@ -45,16 +45,13 @@ The Chess.com-Readme project creates a badge for your github readme with your ch
 repo
 ├── app.py
 ├── LICENSE
-├── __pycache__
-│   ├── app.cpython-311.pyc
-│   └── app.cpython-39.pyc
 ├── README.md
 ├── requirements.txt
 ├── templates
 │   └── card.html.j2
 └── vercel.json
 
-2 directories, 8 files
+2 directories, 6 files
 ```
 ---
 
