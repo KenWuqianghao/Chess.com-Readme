@@ -91,7 +91,7 @@ Before you begin, ensure that you have the following prerequisites installed:
 <img width="1512" alt="Screenshot 2023-06-10 at 04 41 30" src="https://github.com/KenWuqianghao/Chess.com-Readme/assets/20444505/6a59f0fe-1125-4f5e-893e-00a354f0fb91">
 <img width="1512" alt="Screenshot 2023-06-10 at 04 41 41" src="https://github.com/KenWuqianghao/Chess.com-Readme/assets/20444505/2bff6c3b-5498-4970-9d98-7d2a1ad61044">
 
-3. Specify the environment variables username and time_control, time_control has options chess_bullet, chess_blitz and chess_rapid
+3. Specify the environment variables username and time_control, time_control has options chess_bullet, chess_blitz and chess_rapid, if not specified, the highest rating in any time control will be used. 
 <img width="1512" alt="Screenshot 2023-06-10 at 04 42 08" src="https://github.com/KenWuqianghao/Chess.com-Readme/assets/20444505/fee0208a-7d3a-49d0-9103-b910941d551c">
 
 ### 🤖 Using Chess.com-Readme
