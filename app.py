@@ -18,7 +18,7 @@ def rating(time_control):
         time_control = "chess_bullet"
 
     if time_control:
-        return response.json['stats'][time_control]['last']['rating']
+        return [response.json['stats'][time_control]['last']['rating']]
     
     return [response.json['stats']['tactics']['highest']['rating'], response.json['stats']['tactics']['lowest']['rating']]
 
