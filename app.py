@@ -1,5 +1,5 @@
 from flask import Flask, Response, render_template
-from chessdotcom import get_player_stats
+from chessdotcom import get_player_stats, Client
 from chessdotcom import Client
 from dotenv import load_dotenv
 import os
@@ -8,7 +8,7 @@ load_dotenv()
 
 def rating(time_control):
     username = os.getenv("username")
-    response = get_player_stats(username)
+    response = get_player_stats(username)   
     
     if time_control == "blitz":
         time_control = "chess_blitz"
@@ -25,6 +25,10 @@ def rating(time_control):
 def generate_card():
     time_control = os.getenv("time_control")
     rating_level = os.getenv("rating_level")
+    email = os.getenv("email")
+
+    Client.request_config['headers']['User-Agent'] = 'My Chess.com Github Readme Application.You can find it on my Github profile https://github.com/KenWuqianghao. Contact me at {}'.format(email)
+
     elo = rating(time_control)
     
     if time_control == "chess_blitz":
