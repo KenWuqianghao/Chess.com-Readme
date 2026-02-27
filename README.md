@@ -15,7 +15,8 @@ Chess.com-Readme
 <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="txt" />
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="frozenlist" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="itsdangerous" />
-<img src="https://img.shields.io/badge/Jinja-B41717.svg?style=for-the-badge&logo=Jinja&logoColor=white" alt="chess.com" />
+<img src="https://img.shields.io/badge/Chess.com-769656.svg?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="chess.com" />
+<img src="https://img.shields.io/badge/Jinja-B41717.svg?style=for-the-badge&logo=Jinja&logoColor=white" alt="jinja" />
 </p>
 
 </div>
